@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalIncomeTaxCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dbe9b83ff34409991edf5458c6ed02c82249118")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalIncomeTaxCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalIncomeTaxCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

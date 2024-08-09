@@ -1,20 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\",
+  "WorkspaceRootPath": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|d:\\git\\swt301_lab3\\personalincometaxcalculator\\personalincometaxcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|solutionrelative:personalincometaxcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84480EE9-0436-4ED0-86A1-CD0B702E66B8}|..\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj|d:\\git\\swt301_lab3\\personalincometaxcalculator.test\\personalincometaxcalculator.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|d:\\git\\swt301_lab3\\personalincometaxcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84480EE9-0436-4ED0-86A1-CD0B702E66B8}|..\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj|d:\\git\\swt301_lab3\\personalincometaxcalculator.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|c:\\users\\ngomi\\onedrive\\desktop\\swt_lab3\\personalincometaxcalculator\\personalincometaxcalculator.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD87D075-3C3D-4F55-8C0F-947534BE3E19}|PersonalIncomeTaxCalculator.csproj|solutionrelative:personalincometaxcalculator.test\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,52 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PersonalIncomeTaxCalculator.csproj",
-              "DocumentMoniker": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
-              "RelativeDocumentMoniker": "PersonalIncomeTaxCalculator.csproj",
-              "ToolTip": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
-              "RelativeToolTip": "PersonalIncomeTaxCalculator.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-09T12:19:43.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonalIncomeTaxCalculator.Test.csproj",
-              "DocumentMoniker": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj",
-              "RelativeDocumentMoniker": "..\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj",
-              "ToolTip": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj",
-              "RelativeToolTip": "..\\PersonalIncomeTaxCalculator.Test\\PersonalIncomeTaxCalculator.Test.csproj",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-09T12:19:34.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UnitTest.cs",
-              "DocumentMoniker": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
-              "RelativeDocumentMoniker": "..\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
-              "ToolTip": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
-              "RelativeToolTip": "..\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
+              "RelativeDocumentMoniker": "PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
+              "RelativeToolTip": "PersonalIncomeTaxCalculator.Test\\UnitTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:19:10.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:17:49.478Z",
+              "WhenOpened": "2024-08-09T12:32:11.836Z",
               "EditorCaption": ""
             }
           ]

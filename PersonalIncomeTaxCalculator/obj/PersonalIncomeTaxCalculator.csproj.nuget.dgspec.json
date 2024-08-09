@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj": {}
+    "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj": {
+    "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
         "projectName": "PersonalIncomeTaxCalculator",
-        "projectPath": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
+        "projectPath": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\PersonalIncomeTaxCalculator.csproj",
         "packagesPath": "C:\\Users\\NGOMI\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\SWT301_LAB3\\PersonalIncomeTaxCalculator\\obj\\",
+        "outputPath": "C:\\Users\\NGOMI\\OneDrive\\Desktop\\SWT_LAB3\\PersonalIncomeTaxCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NGOMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
